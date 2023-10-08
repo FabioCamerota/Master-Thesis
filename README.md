@@ -1,5 +1,5 @@
 # Master-Thesis
-This repository contains the code used to obtain the results of my master's thesis.
+This repository contains the code used to obtain the results of my master's thesis.<br />
 Read my full master's thesis [here](https://www.politesi.polimi.it/handle/10589/211114).
 ## Project structure
 - `BERT+EAR_implementation.ipynb` contains the code used to train, validate, and test the BERT+EAR model (i.e. the BERT model with EAR _regularization_strength = 0.01_) and the BERT model.
